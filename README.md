@@ -1,2 +1,1 @@
-"# HTML-PHP-JS" /n
-Les activitats estan en diferents branchs
+UF2-AC2
